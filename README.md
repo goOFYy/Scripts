@@ -1,6 +1,6 @@
 # Scripts
 
-## introduction
+## Introduction
    This is a repository where i will be adding some fun scripts.
    
 ## Twitter Scrapper
