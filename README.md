@@ -16,5 +16,5 @@
    
 
 ### Attention
-    use scripts for non malicious intend.
-    .ipynb is just ipython note book. to convert to py google is your best friend ;) ( pretty easy to convert andd a million way to do it)
+    use scripts for non malicious intend and at you own risk.
+    .ipynb is just ipython note book. to convert to .py google is your best friend ;) (pretty easy to convert and a million way to do it)
